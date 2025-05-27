@@ -1,49 +1,52 @@
-# -HeshamHenry1
-`👋 Welcome to my GitHub Overview – QA Engineer
-# 👋 Hi, I'm Hesham Henry
+# 👋 Welcome to my GitHub Overview – QA Engineer
 
-🎯 **Software Testing Engineer** | Passionate about Automation & Manual Testing | Continually Learning and Growing
+I'm **Hesham Henry**, a passionate **Software Testing Engineer** with hands-on experience in both **Manual** and **Automation Testing** using industry-standard tools and frameworks.
 
 ---
 
-## 🧪 Testing Portfolio Highlights
+## 🧪 My Projects
 
-🔹 Manual Testing  
-- 📌 **nopCommerce** – Full test plans & execution using TestRail  
-- 📌 **Mercury Tours** – Structured testing with test documentation  
-- 📌 **ParaBank & SauceDemo** – Manual tests based on user stories & Excel tracking  
-
-🔹 Automation Testing  
-- 🤖 **Playwright** – POM-based E2E tests (ParaBank, AutomationExercise)  
-- 🌐 **WebDriverIO** – UI validation and functional flows (Guru99, Herokuapp)  
-- ⚙️ **Cypress** – Fast test automation with reports and screenshots  
-
-> All projects are available in my [Testing-Projects](https://github.com/HeshamHenry1/Testing-Projects) repository.
+### 🔍 Manual Testing Projects (TestRail & Excel)
+| Project       | Tool      | Description |
+|---------------|-----------|-------------|
+| nopCommerce   | TestRail  | Full test plan, test cases, and bug reports |
+| Mercury Tours | TestRail  | Functional testing based on user flows |
+| ParaBank      | Excel     | Manual test cases based on user stories |
+| SauceDemo     | Excel     | UI & functionality manual testing |
 
 ---
 
-## 🧰 Tools & Skills
+### 🤖 Automation Testing Projects
 
-- Manual Testing: TestRail, Excel  
-- Automation: Playwright, WebDriverIO, Cypress  
-- Version Control: Git & GitHub  
-- Reporting: mochawesome, HTML Reports  
-- Methodologies: Agile, User Story–Driven Testing, Test Plan Design
+#### 🚀 Playwright
+- **AutomationExercise – POM**
+- **ParaBank – POM**
+- **SauceDemo – UI validation**
+- **The Internet Herokuapp – Cross-page checks**
+
+#### 🌐 WebDriverIO
+- **AutomationExercise**
+- **Guru99 Banking**
+- **The Internet (Form validation)**
+
+#### ⚙️ Cypress
+- **Automation Exercise (with reports & screenshots)**
+
+---
+
+## 🛠️ Tools & Technologies
+- **Manual:** TestRail, Excel  
+- **Automation:** Playwright, WebDriverIO, Cypress  
+- **Version Control:** Git, GitHub  
+- **Reporting:** mochawesome, HTML reports
 
 ---
 
-## 📈 What I'm Currently Doing
-
-- Enhancing my automation framework design skills  
-- Practicing API testing and CI integration  
-- Exploring AI-based test tools
+## 📫 Connect with Me
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/hesham-henry-413621204)  
+📁 [View My Projects](https://github.com/HeshamHenry1/Testing-Projects)
 
 ---
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hesham-henry-413621204)
-
----
-> 🧠 *“Quality means doing it right when no one is looking.” – Henry Ford*
+📌 This profile is a snapshot of my journey in QA, reflecting real-world application of testing strategies and tools.
 
