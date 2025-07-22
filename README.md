@@ -32,11 +32,17 @@ I'm **Hesham Henry**, a passionate **Software Testing Engineer** with hands-on e
 #### ⚙️ Cypress
 - **Automation Exercise (with reports & screenshots)**
 
+
+#### 🧪 Selenium
+- **AutomationExercise – POM**
+- **SauceDemo – UI & functionality testing**
+
+
 ---
 
 ## 🛠️ Tools & Technologies
 - **Manual:** TestRail, Excel  
-- **Automation:** Playwright, WebDriverIO, Cypress  
+- **Automation:** Playwright, WebDriverIO, Cypress , Selenium
 - **Version Control:** Git, GitHub  
 - **Reporting:** mochawesome, HTML reports
 
