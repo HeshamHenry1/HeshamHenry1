@@ -10,6 +10,7 @@ I'm **Hesham Henry**, a passionate **Software Testing Engineer** with hands-on e
 | Project       | Tool      | Description |
 |---------------|-----------|-------------|
 | nopCommerce   | TestRail  | Full test plan, test cases, and bug reports |
+|Happet pet store| TestRail  | Full test plan, test cases, and bug reports |
 | Mercury Tours | TestRail  | Functional testing based on user flows |
 | ParaBank      | Excel     | Manual test cases based on user stories |
 | SauceDemo     | Excel     | UI & functionality manual testing |
@@ -51,6 +52,7 @@ I'm **Hesham Henry**, a passionate **Software Testing Engineer** with hands-on e
 ## 📫 Connect with Me
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/hesham-henry)  
 📁 [View My Projects](https://github.com/HeshamHenry1/Testing-Projects)
+   [View My Portofilio](https://heshamhenry1.github.io/Myportfolio/)
 
 ---
 
