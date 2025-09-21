@@ -53,7 +53,7 @@ I'm **Hesham Henry**, a passionate **Software Testing Engineer** with hands-on e
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/hesham-henry)  
 📁 [View My Projects](https://github.com/HeshamHenry1/Testing-Projects)
 
-   [View My Portofilio](https://heshamhenry1.github.io/Myportfolio/)
+[View My Portofilio](https://heshamhenry1.github.io/Myportfolio/)
 
 ---
 
